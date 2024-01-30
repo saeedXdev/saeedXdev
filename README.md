@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @saeedXdev
-- 👀 I’m interested in Full Stack Web Development
-- 🌱 I’m currently learning Backend-Development
+- 👀 I’m interested in DevOps and Cloud Engineer.
+- 🌱 I’m currently learning DevOps.
 
 
 <!---
