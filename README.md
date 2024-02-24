@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @saeedXdev
-- 👀 I’m interested in DevOps and Cloud Engineer.
+- 👀 I’m interested in DevOps and Cloud Engineering.
 - 🌱 I’m currently learning DevOps.
 
 
